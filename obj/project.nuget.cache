@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fA4fDKXb3vxn1oYs9/Ry8OAxFQXqTsTk/myrnunabUHtYSek2TL8J1GFWPiH1oYWmzrY9HTKtXhgWIOx5ZYEJw==",
+  "dgSpecHash": "XYKJwPDzvDT5UgVZgzU7wrmlcWjArnxr9dZLFkFgnyuAPKeZj3fSB5TOSw6AqFtdcD53wRbiZ/ynXzvMlWA9mg==",
   "success": true,
   "projectFilePath": "C:\\Users\\devon\\source\\repos\\WitAI.NET\\WitAI.NET\\WitAI.NET.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\devon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\devon\\.nuget\\packages\\restsharp\\107.3.1-alpha.0.26\\restsharp.107.3.1-alpha.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

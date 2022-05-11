@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WitAI.NET/1.0.0": {
+        "dependencies": {
+          "RestSharp": "107.3.1-alpha.0.26"
+        },
+        "runtime": {
+          "WitAI.NET.dll": {}
+        }
+      },
+      "RestSharp/107.3.1-alpha.0.26": {
+        "runtime": {
+          "lib/net6.0/RestSharp.dll": {
+            "assemblyVersion": "107.3.1.0",
+            "fileVersion": "107.3.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WitAI.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestSharp/107.3.1-alpha.0.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ndkUy2YbjYKh4dcipFdLmljlbefX/H/hwSmSDEdKWUZDLh8WXcOW/VJlWGy5C700PTnplk5sg223F+sU0kfpRA==",
+      "path": "restsharp/107.3.1-alpha.0.26",
+      "hashPath": "restsharp.107.3.1-alpha.0.26.nupkg.sha512"
+    }
+  }
+}

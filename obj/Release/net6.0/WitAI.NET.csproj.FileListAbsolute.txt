@@ -1,0 +1,12 @@
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\bin\Release\net6.0\WitAI.NET.deps.json
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\bin\Release\net6.0\WitAI.NET.dll
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\bin\Release\net6.0\ref\WitAI.NET.dll
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\bin\Release\net6.0\WitAI.NET.pdb
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\obj\Release\net6.0\WitAI.NET.csproj.AssemblyReference.cache
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\obj\Release\net6.0\WitAI.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\obj\Release\net6.0\WitAI.NET.AssemblyInfoInputs.cache
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\obj\Release\net6.0\WitAI.NET.AssemblyInfo.cs
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\obj\Release\net6.0\WitAI.NET.csproj.CoreCompileInputs.cache
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\obj\Release\net6.0\WitAI.NET.dll
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\obj\Release\net6.0\ref\WitAI.NET.dll
+C:\Users\devon\source\repos\WitAI.NET\WitAI.NET\obj\Release\net6.0\WitAI.NET.pdb
